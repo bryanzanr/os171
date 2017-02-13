@@ -1,0 +1,3 @@
+This week task is about introduction to the function in putty such as creating
+folders, creating files like text, change directory until remove files. I also
+learn about push and pull into git repository. 
