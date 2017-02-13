@@ -1,1 +1,3 @@
 #bryanzanr
+
+I excpect operating systems will be more embedded system than introduction to computer organization or even like introduction to digital systems, but then i realize that this will be more fun and interesting because we are using higher level of computer language than it's previous prequisite subject. 
