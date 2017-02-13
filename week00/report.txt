@@ -1,0 +1,2 @@
+Last week task is about introduction of github by register into the website 
+and login into the badak server. 
