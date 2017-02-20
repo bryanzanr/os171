@@ -1,0 +1,4 @@
+w02-170220-18-PS-About: Try weekly tutorial with PuTTY
+w02-170220-18-PS-About: Weekly tutorial finished
+w02-170221-13-LR-About: Weekly Lecture
+w02-170221-13-LR-About: Weekly Lecture

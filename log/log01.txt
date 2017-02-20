@@ -1,0 +1,7 @@
+w01-170213-18-PS-About: Practice directly from terminal instead of putty
+w01-170213-18-PS-About: Accomplish this week task and it's additional log
+w01-170214-10-PS-About: Recheck my work from Putty
+w01-170214-13-LR-About: Weekly Lecture
+w01-170214-13-LR-About: Weekly Lecture
+w01-170216-13-PR-About: Practice Lecture
+w01-170216-13-PR-About: Practice Lecture
