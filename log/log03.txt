@@ -1,7 +1,7 @@
 w03-170227-18-PS-About: Starting to do weekly tutorial
 w03-170228-13-LR-About: Weekly Lecture
 w03-170228-13-LR-About: Quiz
-w03-170228-22-PS-About: Try Quiz's question to know the answer (~/work/test/coba2.txt)
+w03-170228-22-PS-About: Try Quiz's question to know the answer (~/work/test/file/coba2.txt)
 w03-170301-18-PS-About: Week 3 Task done
 w03-170302-13-LR-About: Weekly Lecture
 w03-170302-13-LR-About: Weekly Lecture
