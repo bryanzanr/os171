@@ -1,6 +1,0 @@
-w06-170321-13-PS-About : Weekly Practice about physical memory
-w06-170321-13-PS-About : Practice before mid-term test
-w06-170323-10-LR-About : Assist from teaching assistant
-w06-170323-10-LR-About : Practice from past mid-term test
-w06-170323-13-PS-About : Weekly Practice about virtual memory
-w06-170323-13-PS-About : Weekly Lecture

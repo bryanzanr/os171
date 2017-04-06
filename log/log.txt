@@ -1,0 +1,11 @@
+w06-170321-13-LR-About : Weekly Practice about physical memory
+w06-170321-13-LR-About : Practice before mid-term test
+w06-170323-10-PS-About : Assist from teaching assistant
+w06-170323-10-PS-About : Practice from past mid-term test
+w06-170323-13-LR-About : Weekly Practice about virtual memory
+w06-170323-13-LR-About : Weekly Lecture
+w07-170401-18-PS-About : Starting to make cheatsheet for mid-term test
+w07-170402-10-PS-About : Making cheatsheet for mid-term test
+w08-170403-10-PS-About : Finishing cheatsheet for mid-term test
+w08-170404-13-LR-About : Mid-term test
+w08-170406-13-LR-About : Weekly lecture about forking process
