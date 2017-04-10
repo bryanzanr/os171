@@ -9,3 +9,6 @@ w07-170402-10-PS-About : Making cheatsheet for mid-term test
 w08-170403-10-PS-About : Finishing cheatsheet for mid-term test
 w08-170404-13-LR-About : Mid-term test
 w08-170406-13-LR-About : Weekly lecture about forking process
+w08-170409-12-PS-About : Starting weekly task
+w09-170410-21-PS-About : Finishing weekly task
+w09-170411-13-LR-About : Weekly Lecture
