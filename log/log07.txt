@@ -1,0 +1,7 @@
+w09-170416-22-PS-About : Starting Weekly Task
+w10-170418-13-LR-About : Weekly Lecture about synchronization
+w10-170418-13-LR-About : Weekly Lecture about lock & semaphore
+w10-170420-10-PS-About : Working on weekly task
+w10-170420-13-LR-About : Weekly Lecture about dead lock, suspend, etc. 
+w10-170420-13-LR-About : Weekly Exercise about synchronization (semaphore).
+w10-170420-21-PS-About : Finishing weekly task
