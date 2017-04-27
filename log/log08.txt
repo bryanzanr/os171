@@ -1,0 +1,9 @@
+w10-170423-20-PS-About : Preparing for weekly task
+w11-170425-10-PS-About : Try weekly task with my friend
+w11-170425-13-LR-About : Weekly Lecture about scheduling
+w11-170425-13-LR-About : Weekly exercise about scheduling
+w11-170426-13-PS-About : Done weekly task experiment with friend
+w11-170426-23-PS-About : Working on weekly task theory
+w11-170427-13-LR-About : Weekly exercise about scheduling
+w11-170427-13-LR-About : Weekly exercise about socket
+w11-170427-21-PS-About : Finishing weekly task
