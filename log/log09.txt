@@ -1,0 +1,6 @@
+w12-170502-13-LR-About : Weekly Lecture about file and storage
+w12-170502-13-LR-About : Weekly Lecture about file and storage
+w12-170504-13-LR-About : Weekly Exercise about storage & raid
+w12-170504-13-LR-About : Weekly Exercise about storage & raid
+w12-170506-13-LR-About : Quiz 2 about fork, scheduling, etc.
+w12-170506-13-LR-About : Quiz 2 about fork, scheduling, etc. 
