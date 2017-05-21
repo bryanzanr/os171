@@ -4,3 +4,4 @@ w12-170518-13-LR-About: Lecture Presentation
 w12-170518-13-LR-About: Last practice for final-test
 w12-170520-23-PS-About: Finishing on ranking task
 w12-170520-23-PS-About: Adding more rank amount
+w12-170521-24-PS-About: fixing score on rank
